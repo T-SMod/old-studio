@@ -2058,7 +2058,7 @@ const  contributors = [{
 }, {
   userID: '126880756',
   username: 'SHAMAN2016'
-}: ].map(fromHardcoded);
+}].map(fromHardcoded);
 const addonDevelopers = [{
   userID: '34018398',
   username: 'Jeffalo'
