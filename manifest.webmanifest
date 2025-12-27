@@ -1,7 +1,7 @@
 {
-  "short_name": "Dash",
-  "name": "DashBlocks",
-  "description": "Dash is based on Scratch, TurboWarp and other mods that adds more blocks, extensions, colors, compiles projects to JavaScript to make them run really fast and other features.",
+  "short_name": "TSMod",
+  "name": "TSMod",
+  "description": "TSMod is based on Scratch, TurboWarp, Dashblocks and other mods.",
   "icons": [
     {
       "src": "images/192.png",
