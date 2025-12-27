@@ -2147,6 +2147,9 @@ const extensionDevelopers = [{
 }, {
   userID: '106478819',
   username: 'scratch-craft-2'
+}, {
+  userID: '126880756',
+  username: 'SHAMAN2016'
 }].map(fromHardcoded);
 /* harmony default export */ __webpack_exports__["default"] = ({
   contributors: shuffle(contributors),
