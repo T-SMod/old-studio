@@ -2052,45 +2052,12 @@ const fromHardcoded = _ref => {
 
 // The lists below are in no particular order.
 
-const contributors = [{
-  userID: '41219524',
-  username: 'CubesterYT'
+const  contributors = [{
+  userID: '95667258',
+  username: 'Tagir14012014'
 }, {
-  userID: '64691048',
-  username: 'CST1229'
-}, {
-  userID: '128887584',
-  username: 'FurryR'
-}, {
-  userID: '17340565',
-  username: 'GarboMuffin'
-}, {
-  userID: '102286767',
-  username: 'damir2809'
-}, {
-  userID: '106478819',
-  username: 'scratch_craft_2'
-}, {
-  userID: '97813064',
-  username: 'Den4ik-12'
-}, {
-  userID: '127142246',
-  username: 'AnonimKing24'
-}, {
-  userID: '12498592',
-  username: 'LilyMakesThings'
-}, {
-  userID: '105362329',
-  username: 'TrueFantom'
-}, {
-  userID: '9636514',
-  username: 'Tacodiva7729'
-}, {
-  userID: '141930175',
-  username: 'SimonShiki'
-}, {
-  userID: '34824813',
-  username: 'Geotale'
+  userID: '126880756',
+  username: 'SHAMAN2016'
 }, {
   username: 'Wowfunhappy'
 }].map(fromHardcoded);
