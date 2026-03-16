@@ -2052,12 +2052,47 @@ const fromHardcoded = _ref => {
 
 // The lists below are in no particular order.
 
-const  contributors = [{
-  userID: '95667258',
-  username: 'Tagir14012014'
+const contributors = [{
+  userID: '41219524',
+  username: 'CubesterYT'
 }, {
-  userID: '126880756',
-  username: 'SHAMAN2016'
+  userID: '64691048',
+  username: 'CST1229'
+}, {
+  userID: '128887584',
+  username: 'FurryR'
+}, {
+  userID: '17340565',
+  username: 'GarboMuffin'
+}, {
+  userID: '102286767',
+  username: 'damir2809'
+}, {
+  userID: '106478819',
+  username: 'scratch_craft_2'
+}, {
+  userID: '97813064',
+  username: 'Den4ik-12'
+}, {
+  userID: '127142246',
+  username: 'AnonimKing24'
+}, {
+  userID: '12498592',
+  username: 'LilyMakesThings'
+}, {
+  userID: '105362329',
+  username: 'TrueFantom'
+}, {
+  userID: '9636514',
+  username: 'Tacodiva7729'
+}, {
+  userID: '141930175',
+  username: 'SimonShiki'
+}, {
+  userID: '34824813',
+  username: 'Geotale'
+}, {
+  username: 'Wowfunhappy'
 }].map(fromHardcoded);
 const addonDevelopers = [{
   userID: '34018398',
@@ -2148,8 +2183,132 @@ const extensionDevelopers = [{
   userID: '106478819',
   username: 'scratch-craft-2'
 }, {
-  userID: '126880756',
-  username: 'SHAMAN2016'
+  username: '-SIPC-'
+}, {
+  username: '0832'
+}, {
+  userID: '74246431',
+  username: '0znzw'
+}, {
+  userID: '17235330',
+  username: 'aleb2005'
+}, {
+  username: 'BlueDome77'
+}, {
+  username: 'ClaytonTDM'
+}, {
+  userID: '37070511',
+  username: 'cs2627883'
+}, {
+  userID: '64691048',
+  username: 'CST1229'
+}, {
+  userID: '41219524',
+  username: 'CubesterYT'
+}, {
+  userID: '33988895',
+  username: 'D-ScratchNinja'
+}, {
+  username: 'DT'
+}, {
+  userID: '1882674',
+  username: 'griffpatch'
+}, {
+  userID: '41876695',
+  username: 'JeremyGamer13'
+}, {
+  userID: '12498592',
+  username: 'LilyMakesThings'
+}, {
+  username: 'MikeDEV'
+}, {
+  userID: '62325737',
+  username: 'mybearworld'
+}, {
+  userID: '62950341',
+  username: 'NamelessCat'
+}, {
+  username: 'NOname-awa'
+}, {
+  userID: '26959223',
+  username: 'pinksheep2917'
+}, {
+  username: 'pumpkinhasapatch'
+}, {
+  userID: '126715567',
+  username: 'PwLDev'
+}, {
+  userID: '139929771',
+  username: 'qxsck'
+}, {
+  userID: '29118689',
+  username: 'RedMan13'
+}, {
+  userID: '80038021',
+  username: 'RixTheTyrunt'
+}, {
+  userID: '45777723',
+  username: 'DemonX5'
+}, {
+  userID: '14880401',
+  username: 'Sheep_maker'
+}, {
+  userID: '103496265',
+  username: 'shreder95ua'
+}, {
+  userID: '72467731',
+  username: 'Skyhigh173'
+}, {
+  userID: '52066199',
+  username: 'softed'
+}, {
+  username: 'TheShovel'
+}, {
+  userID: '105362329',
+  username: 'TrueFantom'
+}, {
+  userID: '19133274',
+  username: 'Vadik1'
+}, {
+  username: 'veggiecan0419'
+}, {
+  userID: '82486672',
+  username: 'lolecksdeehaha'
+}, {
+  userID: '3318598',
+  username: 'plant2014'
+}, {
+  userID: '128778351',
+  username: 'XmerOriginals'
+}, {
+  username: 'ZXMushroom63'
+}].map(fromHardcoded);
+const docs = [{
+  userID: '12498592',
+  username: 'LilyMakesThings'
+}, {
+  username: 'DNin01'
+}, {
+  username: 'Samq64'
+}, {
+  username: '61080GBA'
+}, {
+  username: 'adazem009'
+}, {
+  username: 'sajtosteszta32'
+}, {
+  username: 'yoyomonem'
+}, {
+  userID: '55742784',
+  username: 'RedGuy7'
+}, {
+  username: '28klotlucas2'
+}, {
+  username: 'PPPDUD'
+}, {
+  username: 'BackThePortal'
+}, {
+  username: 'Naleksuh'
 }].map(fromHardcoded);
 /* harmony default export */ __webpack_exports__["default"] = ({
   contributors: shuffle(contributors),
